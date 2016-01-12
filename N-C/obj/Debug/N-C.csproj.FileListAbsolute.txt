@@ -1,0 +1,6 @@
+C:\Users\rchia\BenchTask\N-C\N-C\bin\N-C.dll.config
+C:\Users\rchia\BenchTask\N-C\N-C\bin\N-C.dll
+C:\Users\rchia\BenchTask\N-C\N-C\bin\N-C.pdb
+C:\Users\rchia\BenchTask\N-C\N-C\obj\Debug\N-C.csprojResolveAssemblyReference.cache
+C:\Users\rchia\BenchTask\N-C\N-C\obj\Debug\N-C.dll
+C:\Users\rchia\BenchTask\N-C\N-C\obj\Debug\N-C.pdb
